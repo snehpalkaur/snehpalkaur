@@ -1,6 +1,6 @@
-<h3>Hi there, I am Snehpal Kaur<h3>
+<h2>Hi there, I am Snehpal Kaur<h2>
 
-<h4>👨‍💻 Information Technology Projects:</h4>
+<h3>👨‍💻 Information Technology Projects:</h3>
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/snehpalkaur/osticket-prereqs)
