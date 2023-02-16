@@ -1,4 +1,5 @@
-<h2>Hi there, I'm Snehpal Kaur<h2>
+<h2>Hi there👋, I'm Snehpal Kaur<h2>
+  Passionate about discovering new ideas and expanding my knowledge 🙂
 
 <h3>👨‍💻 Information Technology Projects:</h3>
   
