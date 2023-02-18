@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Snehpal Kaur
-Passionate about discovering new ideas and expanding my knowledge 🙂
+> Passionate about discovering new ideas and expanding my knowledge 🙂
 
 <h3>👨‍💻 Information Technology Projects:</h3>
   
