@@ -10,4 +10,8 @@ Passionate about discovering new ideas and expanding my knowledge 🙂
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/snehpalkaur/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/snehpalkaur/azure-network-protocols)
+  
+ <h3> :cloud: Cloud Projects
+  
+   - [aws-bootcamp-cruddur-2023](https://github.com/snehpalkaur/aws-bootcamp-cruddur-2023)
 
