@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Snehpal Kaur
-> I am currently expanding my knowledge 🙂
+*I am currently expanding my knowledge 🙂*
 
 <h3>👨‍💻 Information Technology Projects:</h3>
   
