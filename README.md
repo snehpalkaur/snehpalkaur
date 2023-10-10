@@ -16,3 +16,11 @@
 
 
 <!--- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = snehpalkaur/terraform-beginner-bootcamp-2023)-->
+
+<!---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,java,vim&theme=dark" />
+  </a>
+</p>
+-->
